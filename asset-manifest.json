@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/final-fantasy-randomiser/static/css/main.a8caf312.css",
+    "main.js": "/final-fantasy-randomiser/static/js/main.79a7bf11.js",
+    "static/js/787.e325cebd.chunk.js": "/final-fantasy-randomiser/static/js/787.e325cebd.chunk.js",
+    "static/media/twitter.png": "/final-fantasy-randomiser/static/media/twitter.afd9173d4ce5023724e8.png",
+    "static/media/yt.jpg": "/final-fantasy-randomiser/static/media/yt.b495a483fd1e09499c8f.jpg",
+    "static/media/linkedin.png": "/final-fantasy-randomiser/static/media/linkedin.7ddf2586b0326cf403f9.png",
+    "index.html": "/final-fantasy-randomiser/index.html",
+    "main.a8caf312.css.map": "/final-fantasy-randomiser/static/css/main.a8caf312.css.map",
+    "main.79a7bf11.js.map": "/final-fantasy-randomiser/static/js/main.79a7bf11.js.map",
+    "787.e325cebd.chunk.js.map": "/final-fantasy-randomiser/static/js/787.e325cebd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8caf312.css",
+    "static/js/main.79a7bf11.js"
+  ]
+}
