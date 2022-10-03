@@ -23,6 +23,7 @@ function Randomise() {
   
   return (
     <div className="App">
+      
       <div class = "container">
       <div id="button"><button id="clicker" onClick = {() => setRandom(Math.floor(Math.random() * data.length))}>Random Character</button></div>
       <div id = "table">
